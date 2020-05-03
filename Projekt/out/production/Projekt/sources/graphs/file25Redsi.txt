@@ -1,0 +1,36 @@
+Wilamean|786|786|128|7|#899343|10
+Annoval 14|-584|-149|294|5|#cc6ad8|11
+Elanis|-717|-671|-524|12|#d26654|7
+Clarius|-450|266|-419|19|#8aabfe|5
+Alpha Centauri|342|-635|695|14|#31e6ec|5
+Moord|-92|528|521|20|#79d178|14
+Broi|-551|-558|417|10|#d95af2|6
+O'erlanii|-251|603|-144|20|#3a6452|12
+Kakaranathara|541|-706|779|15|#2ba46d|7
+Cyber|242|-732|-112|19|#a2c387|12
+Biphasia|-52|-608|-422|20|#d38969|10
+Strontia|-446|115|553|5|#c1a7e8|7
+Astra|210|-550|610|18|#b044de|4
+Hala|722|656|-459|13|#fd716a|11
+Quon|-550|-611|534|16|#c307f5|5
+Carmondy IV|-594|477|364|18|#383eae|12
+Tarnax IV|-106|538|795|12|#f282c2|5
+Beta|216|-247|78|16|#6b5d46|10
+Skrullos|581|250|-238|11|#87230b|5
+Battleworld|44|397|-543|5|#58adfb|0
+Maklu IV|-286|-421|419|17|#c74ea0|5
+Jhb|-22|204|-687|14|#7e299e|3
+Hiberlac|-153|650|284|9|#7bb4cf|5
+R'makl'z|418|714|-736|12|#18c061|14
+Maarin|288|-166|-673|6|#8d9dfe|1
+#####
+Skrullos|Strontia|Phosphorus
+Elanis|Jhb|Radon
+Jhb|O'erlanii|Helium
+Broi|Wilamean|Neon
+Tarnax IV|Moord|Bohrium
+Wilamean|Hala|Astatine
+Jhb|Annoval 14|Argon
+Hala|Moord|Nitrogen
+Strontia|Kakaranathara|Roentgenium
+Cyber|Elanis|Dysprosium

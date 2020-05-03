@@ -1,0 +1,80 @@
+Wilamean|93|41|-397|19|#5a5892|9
+Annoval 14|779|373|42|20|#a863b3|6
+Elanis|-242|523|590|6|#8a521d|14
+Clarius|549|706|-239|12|#5e4eec|5
+Alpha Centauri|672|266|-130|7|#38c38a|1
+Moord|-93|-157|43|15|#87a75e|12
+Broi|364|738|563|20|#0e3a8c|11
+O'erlanii|210|-229|-163|11|#7a2457|11
+Kakaranathara|777|505|-577|6|#0fdf16|3
+Cyber|120|200|599|13|#08863a|6
+Biphasia|-786|-202|-371|11|#eb033d|14
+Strontia|-546|322|457|6|#896cd7|3
+Astra|-614|-319|-19|8|#ca2de2|6
+Hala|-165|727|302|12|#8f4b3b|7
+Quon|-296|707|-218|15|#39649a|4
+Carmondy IV|-648|-416|587|20|#7099d2|4
+Tarnax IV|111|796|-429|15|#31e309|14
+Beta|-625|-487|197|8|#574304|13
+Skrullos|638|590|315|15|#677078|9
+Battleworld|-178|58|615|12|#5959bc|11
+Maklu IV|-787|341|256|11|#d65e23|7
+Jhb|-372|-304|-357|5|#c5ef17|3
+Hiberlac|-705|-199|-98|15|#93f8c6|7
+R'makl'z|236|-112|739|12|#263a0f|6
+Maarin|523|-314|-171|12|#bf546f|5
+#####
+Jhb|Broi|Bismuth
+Hala|Elanis|Livermorium
+Hiberlac|Maklu IV|Tellurium
+Cyber|Hiberlac|Hassium
+O'erlanii|Wilamean|Dargonite
+Carmondy IV|Jhb|Osmium
+Cyber|R'makl'z|Ytterbium
+Moord|Kakaranathara|Manganese
+Hala|Skrullos|Tellurium
+Skrullos|Moord|Flerovium
+Battleworld|Cyber|Hassium
+Carmondy IV|Beta|Curium
+Astra|Annoval 14|Terbium
+Jhb|Cyber|Einsteinium
+Strontia|Cyber|Thulium
+Maklu IV|Clarius|Tungsten
+Kakaranathara|Beta|Meitnerium
+Broi|Moord|Mercury
+Quon|Skrullos|Lithium
+Alpha Centauri|Broi|Titanium
+Quon|O'erlanii|Hydrogen
+Beta|Skrullos|Chromium
+Alpha Centauri|Carmondy IV|Lawrencium
+O'erlanii|Astra|Gold
+Jhb|Battleworld|Nickel
+Alpha Centauri|Biphasia|Nihonium
+Hiberlac|Quon|Furyium
+Cyber|Elanis|Dubnium
+Battleworld|Moord|Hydrogen
+Jhb|Biphasia|Cesium
+Annoval 14|Wilamean|Einsteinium
+Clarius|Hiberlac|Erbium
+O'erlanii|Maklu IV|Californium
+Skrullos|Annoval 14|Seaborgium
+Maklu IV|Broi|Nihonium
+Tarnax IV|Moord|Sodium
+Wilamean|Cyber|Rubidium
+Hala|Tarnax IV|Vanadium
+Clarius|O'erlanii|Barium
+Cyber|R'makl'z|Zirconium
+Quon|R'makl'z|Europium
+Jhb|Tarnax IV|Hassium
+Battleworld|Wilamean|Rhenium
+Tarnax IV|Hala|Vanadium
+Maarin|Strontia|Phosphorus
+Battleworld|Cyber|Selenium
+Carmondy IV|Moord|Thallium
+Hala|Beta|Nobelium
+Annoval 14|R'makl'z|Bismuth
+Skrullos|Wilamean|Chromium
+Jhb|O'erlanii|Californium
+Hala|Jhb|Mercury
+Moord|Beta|Calcium
+Astra|Kakaranathara|Oganesson

@@ -1,0 +1,377 @@
+Hiberlac|168|697|299|7|#c6fdaa|5
+Tarnax IV|-97|-219|-148|13|#11b870|8
+Saturn|-386|-779|-132|11|#45977a|12
+Halfworld|-273|-624|351|12|#3072a9|5
+Cron|675|-211|-341|15|#c49745|2
+Lemista|316|661|-136|13|#42aad2|9
+Centurri-Six|-26|-183|91|7|#11da3a|0
+Sirius III-IV|507|-728|476|12|#f4f3dd|0
+Chandilar|-646|-185|792|19|#ee6083|8
+Horus IV|752|101|51|9|#bdb198|5
+The World|487|315|161|9|#bbe179|6
+Achernon|-15|-360|716|16|#34d03c|8
+Moord|-118|-167|79|20|#5c35eb|3
+Arima|-667|-94|553|9|#525a60|10
+Dyofor|443|-726|364|9|#d0b6aa|6
+Ego the Living Planet|520|285|-187|19|#577c43|12
+A-Chiltar|193|-332|-138|19|#07fe16|11
+Arcturus IV|82|656|711|5|#0b7322|9
+Kosmos|596|-67|-38|11|#713a9f|2
+Sakaar|-499|-317|-746|13|#9fcb24|4
+Alpha Centauri|43|358|787|16|#85d296|0
+Jötunheim|657|693|413|10|#bf4353|9
+Earth|-37|319|-158|10|#313510|9
+Aerie|712|-791|53|8|#ec10e4|11
+Vrellnex|485|-292|-345|7|#fe0576|2
+Zenn-La|705|-418|388|10|#137837|1
+Maarin|-233|405|-296|8|#333195|3
+Berhart|-236|164|-247|18|#f0882f|7
+Lumin|-245|432|321|17|#0e7131|6
+Interdis|169|763|-489|7|#5a1fd3|2
+Beta|656|-787|344|18|#c26a25|2
+Gunava|766|720|-137|18|#ceceed|12
+Wundagore II|171|-100|-478|5|#634410|0
+Titan|-750|55|-305|17|#d86fac|0
+Calurnia|-49|292|136|15|#1160ce|3
+Wraithworld|463|226|-629|18|#3a0da1|3
+Argor|-592|693|566|9|#8f7dac|13
+Sszardil|129|673|92|16|#6ddfd0|10
+Korbin|37|746|563|18|#89ef7b|7
+Vormir|-423|-156|-282|16|#b3cc47|12
+Ceres|-625|469|-377|12|#da8e7b|11
+Ria|-290|102|171|18|#936a91|8
+Armechadon|544|213|-568|5|#5c0205|11
+Strontia|304|-244|-209|11|#27bb2f|9
+Huj|299|-181|-217|13|#e12f62|9
+Lar|253|680|8|18|#eddc6d|0
+Arago-7|-85|620|-371|20|#0eb335|14
+Mercury|568|-451|-599|15|#2dfa38|6
+Asgard|710|-566|-115|14|#866465|12
+Birkeel|-761|-638|674|5|#378f98|7
+Timor|-770|584|584|13|#c8aa49|10
+Marvan|84|-573|-741|6|#547ec2|13
+Stent|-40|594|-668|11|#195886|4
+O'erlanii|-324|233|-635|20|#22895a|1
+Ba-Banis|555|118|189|18|#cf88d2|0
+Calculex|204|-292|171|19|#0bfd8e|13
+Wilamean|-487|225|782|6|#effeb2|7
+Dakkam|-136|156|-337|12|#aaa4a6|13
+Wobb-Lar|381|-539|-100|18|#9b17cf|13
+Ardent Spring|-466|120|190|14|#0faf87|1
+Carmondy IV|50|-562|696|12|#eed629|6
+Kallu|-468|389|426|5|#328414|5
+Entem|677|-164|41|15|#df93bb|5
+Annoval 14|19|-697|-33|13|#35b8c1|4
+Femizonia|363|128|619|14|#0c4d4e|2
+Ciegrim-7|371|413|502|11|#7767a9|8
+Maklu IV|-177|405|211|7|#c1f64d|9
+Xandar|254|-611|-341|18|#7b4e21|7
+Taur|462|-484|236|11|#4e767c|14
+Tsorcherhi|731|-193|336|11|#51d91c|7
+Battleworld|374|-716|-785|19|#4b7670|14
+Cyber|87|692|5|9|#a619e0|0
+Ryas|-691|445|73|17|#ddb394|14
+Ariston|-452|98|466|14|#efa277|7
+Biphasia|3|-604|456|14|#0f5973|14
+Birj|-9|-117|-266|7|#c95b95|0
+Darbia|-211|-306|-26|17|#c1cc0f|7
+Contraxia|143|-438|-483|20|#86895b|6
+Deo|-242|303|39|20|#24ea61|6
+Tayp|476|-465|214|5|#fb08b4|14
+Quon|-196|-447|-354|15|#bff3d7|8
+Counter-Earth|603|-384|245|17|#278ec2|0
+Ankara|-488|259|-138|12|#d8f608|7
+Jhb|519|-557|-696|20|#fede3c|1
+R'makl'z|161|-414|293|9|#1b9207|4
+Superior|-219|-610|82|15|#d0e49e|9
+Elanis|770|-380|-602|6|#1fe3d3|14
+Archeopia|709|-751|725|9|#2ac8ec|6
+Krylor|-330|-634|781|10|#a6407b|4
+Power Planet 4|114|-390|394|12|#d5d0c2|13
+New Xanth|-202|-480|-564|16|#3b93c1|14
+Tekton|-514|-723|-501|12|#d239e1|1
+Clarius|-77|772|-698|15|#e7e0bd|1
+Stonus I-V|-290|-392|701|12|#84bc47|0
+Kakaranathara|474|413|224|18|#d265c1|10
+Blackworld|-191|-57|800|8|#1b0b3c|1
+Jupiter|-157|-399|-541|7|#11454b|10
+Astra|526|-639|-732|6|#0e2df6|13
+Pluto|333|-623|517|6|#71b3e6|5
+Krelar|724|44|-131|14|#de153c|1
+Inaku|349|37|238|13|#24964a|4
+Centauri IV|-586|-592|280|19|#bebb60|11
+Oorga|-263|510|-670|20|#0157b7|10
+Mobius|-560|-416|663|17|#163436|14
+Skrullos|-151|-522|640|9|#9923c2|13
+Uranus|-33|-570|-516|12|#dd768e|7
+Klyntar|-762|601|703|12|#035814|5
+Tun|731|386|-117|14|#c14d66|13
+Broi|322|-480|-379|14|#f973b4|2
+Vega|-82|507|726|14|#13c939|11
+Galador|-530|522|309|17|#a84a76|10
+Taa|283|426|285|13|#f846ce|4
+Hala|-767|-392|-287|15|#cb0784|2
+Laxidazia|734|-456|295|8|#b6945d|10
+Asylum|752|-406|30|14|#c6a747|14
+Aedi|-50|-644|206|18|#945e8d|3
+Xanth|-467|658|446|16|#fcf6fb|11
+Breakworld|-151|216|-299|6|#cd6665|12
+#####
+Wundagore II|Broi|Dargonite
+Stonus I-V|Galador|Technetium
+Vega|Dyofor|Dysprosium
+Sszardil|Strontia|Cogmium
+Inaku|Blackworld|Lawrencium
+Counter-Earth|Aedi|Palladium
+Marvan|Tayp|Livermorium
+Elanis|Deo|Cesium
+Ankara|Timor|Oxygen
+Contraxia|O'erlanii|Hydrogen
+Maklu IV|Krelar|Astatine
+Asgard|Tayp|Flerovium
+Klyntar|Cyber|Adamantium
+Xandar|Jötunheim|Iron
+Aedi|Mercury|Plutonium
+Cyber|Darbia|Rhenium
+Femizonia|Tsorcherhi|Radon
+Korbin|Ba-Banis|Livermorium
+Deo|Dakkam|Argon
+Mercury|Tayp|Praseodymium
+Vrellnex|Stonus I-V|Meitnerium
+The World|Argor|Curium
+Timor|Hala|Vibranium
+Ciegrim-7|Dyofor|Promethium
+Lar|Arago-7|Lithium
+O'erlanii|Superior|Cerium
+Pluto|Cyber|Promethium
+Alpha Centauri|Kakaranathara|Argon
+Centurri-Six|Tayp|Mendelevium
+Ardent Spring|Clarius|Tellurium
+Armechadon|Moord|Bismuth
+Centurri-Six|Quon|Einsteinium
+Broi|Ria|Livermorium
+Broi|Sszardil|Phosphorus
+Argor|Korbin|Oxygen
+Tekton|Berhart|Neon
+Kakaranathara|Deo|Zirconium
+Wilamean|Gunava|Flerovium
+Aerie|Tsorcherhi|Nickel
+Ryas|Armechadon|Cerium
+Tarnax IV|Berhart|Plandanium
+Tun|Battleworld|Astatine
+Sirius III-IV|Cron|Gadolinium
+Pluto|Asylum|Hafnium
+Cyber|Hala|Ytterbium
+Mercury|Biphasia|Lithium
+Power Planet 4|Centurri-Six|Indium
+Zenn-La|Ba-Banis|Neon
+Birkeel|Broi|Rubidium
+Achernon|Jupiter|Lanthanum
+Calurnia|Ceres|Potassium
+Calculex|Tsorcherhi|Strontium
+Darbia|Centurri-Six|Europium
+Titan|Centurri-Six|Manganese
+Earth|Tun|Astatine
+Archeopia|Ryas|Ruthenium
+Achernon|Vormir|Plandanium
+Sszardil|Calculex|Neodymium
+The World|Birkeel|Epidurium
+Sszardil|Uranus|Hydrogen
+Wundagore II|Interdis|Magnesium
+Mercury|Lumin|Lutetium
+Laxidazia|Battleworld|Iridium
+Stonus I-V|Vormir|Europium
+Berhart|Clarius|Oganesson
+Ariston|Xandar|Mercury
+Huj|Oorga|Titanium
+Uranus|Wundagore II|Mendelevium
+Interdis|Sszardil|Mendelevium
+Krylor|Sszardil|Polonium
+Klyntar|Elanis|Iridium
+Elanis|Birkeel|Radium
+Lar|Sirius III-IV|Ytterbium
+Calurnia|A-Chiltar|Hydrogen
+Tarnax IV|Contraxia|Nobelium
+Tayp|Krelar|Neodymium
+Cyber|Elanis|Cogmium
+Cyber|Lemista|Barium
+Earth|Xandar|Americium
+Ria|Lemista|Krypton
+Ria|Femizonia|Xenon
+Power Planet 4|Tsorcherhi|Dysprosium
+Tarnax IV|Mercury|Livermorium
+Lemista|Kosmos|Selenium
+Lar|Maarin|Adamantium
+Berhart|Titan|Ruthenium
+New Xanth|Alpha Centauri|Lanthanum
+Calurnia|Marvan|Magnesium
+Ardent Spring|Entem|Hassium
+Elanis|Stent|Carbonadium
+Pluto|Vrellnex|Carbonadium
+Moord|Dyofor|Francium
+Dyofor|Aedi|Flerovium
+Titan|Arago-7|Thulium
+Arcturus IV|Breakworld|Americium
+A-Chiltar|Ryas|Selenium
+Lar|Cron|Carbonadium
+Argor|Berhart|Adamantium
+Kallu|Mobius|Mendelevium
+Maklu IV|Tayp|Indium
+Deo|Wraithworld|Neon
+Hala|Annoval 14|Lawrencium
+Wundagore II|Vrellnex|Tin
+Wobb-Lar|Tun|Boron
+Tsorcherhi|Arcturus IV|Palladium
+Mobius|Tekton|Livermorium
+Annoval 14|Counter-Earth|Samarium
+Femizonia|Calculex|Radium
+Earth|Ariston|Samarium
+Krylor|Marvan|Radium
+Alpha Centauri|Maarin|Vanadium
+The World|Birkeel|Radium
+Stent|Counter-Earth|Dargonite
+Dyofor|Femizonia|Terbium
+Lemista|Birj|Praseodymium
+Arago-7|Strontia|Erbium
+Hiberlac|Oorga|Rhenium
+Stonus I-V|Jötunheim|Mercury
+The World|Strontia|Gold
+Jupiter|Titan|Epidurium
+Gunava|Titan|Sodium
+Argor|Ceres|Chromium
+Lar|Deo|Lead
+Taur|Ciegrim-7|Neodymium
+Sakaar|Taa|Meitnerium
+Kakaranathara|Jupiter|Lanthanum
+Pluto|Archeopia|Livermorium
+Saturn|Tekton|Titanium
+Marvan|Mobius|Plandanium
+Hiberlac|Dakkam|Lutetium
+Tarnax IV|Oorga|Cesium
+Ria|Broi|Vibranium
+Quon|Centurri-Six|Molybdenum
+Blackworld|Timor|Furyium
+Arcturus IV|Ciegrim-7|Selenium
+Earth|Deo|Sodium
+Wilamean|Calculex|Scandium
+Tarnax IV|Tun|Yttrium
+Uranus|Krylor|Gadolinium
+Inaku|Sszardil|Boron
+Power Planet 4|Centurri-Six|Californium
+Kallu|Ariston|Epidurium
+Annoval 14|Lumin|Lanthanum
+Marvan|Korbin|Thulium
+Cyber|Clarius|Cesium
+Archeopia|Dyofor|Xenon
+Wobb-Lar|Halfworld|Promethium
+Korbin|Vrellnex|Hydrogen
+Lumin|Mobius|Boron
+Kakaranathara|Berhart|Scandium
+Cyber|Zenn-La|Arsenic
+Deo|Jupiter|Gravitonium
+Calculex|O'erlanii|Nihonium
+Lumin|Beta|Scandium
+The World|Carmondy IV|Magnesium
+Huj|Alpha Centauri|Nobelium
+Mobius|Inaku|Tennessine
+Annoval 14|Entem|Beryllium
+Breakworld|Centurri-Six|Magnesium
+Achernon|Tsorcherhi|Californium
+Ryas|Deo|Gold
+Darbia|Marvan|Curium
+Taa|Berhart|Californium
+Darbia|Lemista|Tin
+Horus IV|Taa|Rhodium
+A-Chiltar|Mobius|Tungsten
+Maarin|Ryas|Scandium
+Arima|Titan|Fluorine
+Timor|Aerie|Ruthenium
+Xanth|Uranus|Lead
+A-Chiltar|Halfworld|Dysprosium
+Wilamean|Tun|Roentgenium
+Stonus I-V|Superior|Francium
+Uranus|Horus IV|Osmium
+Jötunheim|Sirius III-IV|Gadolinium
+R'makl'z|Kosmos|Platinum
+Chandilar|Mercury|Fluorine
+Argor|Huj|Selenium
+Galador|Stonus I-V|Ytterbium
+Laxidazia|Berhart|Californium
+Wobb-Lar|Titan|Adamantium
+Chandilar|Ryas|Roentgenium
+Korbin|Contraxia|Iodine
+Arago-7|Archeopia|Gadolinium
+Argor|Ba-Banis|Astatine
+Stonus I-V|Ariston|Europium
+Kosmos|Timor|Carbonadium
+Arima|A-Chiltar|Silver
+Tarnax IV|Zenn-La|Tellurium
+Wundagore II|Biphasia|Zinc
+Oorga|Beta|Lithium
+Cyber|Ankara|Nobelium
+Wundagore II|Horus IV|Terbium
+Femizonia|R'makl'z|Ruthenium
+Asgard|Wilamean|Nickel
+Berhart|Kallu|Lithium
+Ardent Spring|Counter-Earth|Furyium
+Interdis|Elanis|Neon
+Hala|Hiberlac|Helium
+Vormir|Ariston|Cerium
+Asgard|Centauri IV|Mercury
+Calurnia|Wilamean|Ruthenium
+Sakaar|O'erlanii|Radium
+Saturn|Ariston|Gallium
+Blackworld|Berhart|Niobium
+Ba-Banis|Ciegrim-7|Lead
+Ba-Banis|Elanis|Iron
+Darbia|Stent|Phosphorus
+Centauri IV|Sakaar|Polonium
+Saturn|Klyntar|Zinc
+Dakkam|Counter-Earth|Gold
+Hiberlac|Centurri-Six|Holmium
+Kallu|Halfworld|Carbon
+Galador|Maklu IV|Helium
+Sirius III-IV|Biphasia|Lead
+Ardent Spring|Deo|Osmium
+Femizonia|New Xanth|Lanthanum
+Ankara|Wobb-Lar|Cerium
+Clarius|Jötunheim|Berkelium
+Wobb-Lar|Hiberlac|Nickel
+Klyntar|Kakaranathara|Antimony
+Kallu|Titan|Dargonite
+Calculex|Ria|Neptunium
+Maarin|Gunava|Strontium
+Vrellnex|O'erlanii|Neon
+Ceres|Wilamean|Copper
+Gunava|Kakaranathara|Epidurium
+Broi|Vrellnex|Cavorite
+Jötunheim|A-Chiltar|Silver
+Zenn-La|Chandilar|Carbonadium
+Armechadon|Xandar|Protactinium
+Ria|Horus IV|Cavorite
+Tsorcherhi|Counter-Earth|Dubnium
+Darbia|Blackworld|Samarium
+Jhb|Klyntar|Polonium
+Vega|Deo|Ruthenium
+Arima|Aedi|Chlorine
+Chandilar|Vrellnex|Bismuth
+Lumin|Vormir|Fluorine
+Vormir|Dyofor|Rutherfordium
+Moord|Vrellnex|Bromine
+Biphasia|Broi|Adamantium
+Gunava|Galador|Tennessine
+Pluto|Clarius|Germanium
+Laxidazia|Lar|Plutonium
+Archeopia|Aedi|Sulfur
+Laxidazia|Mercury|Plutonium
+Krelar|Blackworld|Flerovium
+Stonus I-V|Carmondy IV|Argon
+New Xanth|Strontia|Mendelevium
+Skrullos|Battleworld|Praseodymium
+Centauri IV|Titan|Aluminum
+Asgard|Ankara|Actinium
+Tekton|Ariston|Lead
+Femizonia|Annoval 14|Lead
+Calurnia|Vormir|Fermium
+Jhb|Berhart|Titanium
+Cyber|Vrellnex|Thallium

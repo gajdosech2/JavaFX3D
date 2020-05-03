@@ -1,0 +1,75 @@
+Jhb|-714|-679|468|13|#0dfbee|9
+Saturn|49|461|703|13|#c5589f|6
+Calculex|782|-492|505|18|#1bfc1d|10
+Breakworld|179|417|288|5|#872526|11
+Tun|345|-562|-781|9|#499548|4
+Dakkam|112|11|644|17|#b03def|5
+Hiberlac|-641|366|-315|14|#cc7b80|0
+Interdis|-120|685|-494|17|#1509b6|10
+Kakaranathara|499|-110|161|14|#bfad96|1
+Galador|-749|-544|-134|19|#7bf4d8|0
+Asgard|-565|-672|715|5|#307d79|1
+Tsorcherhi|-33|311|282|8|#44c467|3
+Annoval 14|-170|798|359|11|#5b635f|13
+Berhart|-72|-743|76|7|#210f2a|14
+Pluto|265|-142|-269|19|#1195e0|4
+Aedi|669|471|49|6|#9c9844|10
+Tarnax IV|-213|-419|575|16|#8ac560|3
+Superior|-485|-93|-407|7|#0d8c14|7
+Broi|483|592|-722|13|#b8b75b|4
+Ria|87|-563|667|6|#b206c2|0
+Ceres|97|-506|-343|9|#6b90ff|4
+Taa|-209|-536|-344|18|#614f06|14
+Wobb-Lar|88|74|130|13|#86b828|14
+Birkeel|-373|-530|-746|5|#2cdc09|12
+Mobius|312|-424|396|18|#d4b0f0|1
+Gunava|-185|689|-402|11|#ebc7c6|14
+Strontia|173|-715|-624|12|#503ec1|1
+Lar|678|588|-303|20|#fbc43b|4
+Clarius|45|-680|368|15|#71d1ef|12
+Mercury|681|-526|309|17|#77133a|7
+Stonus I-V|-391|248|-270|19|#d1d643|7
+Beta|-205|-150|581|18|#927fa8|11
+Halfworld|432|-364|397|12|#71d5a9|3
+Taur|755|-384|-320|10|#28a2c1|4
+Sirius III-IV|390|-674|-361|10|#0d6243|9
+Elanis|-312|415|-122|9|#bf00dd|4
+Quon|-82|-681|-674|20|#1acd8a|0
+Counter-Earth|74|-186|-303|6|#1a1c5f|8
+Lumin|193|-4|659|8|#90cf26|0
+Sakaar|656|29|-687|15|#fa672f|12
+Xandar|-362|-635|686|8|#0dfdf8|6
+O'erlanii|-68|-547|-186|6|#15fee0|1
+Cyber|-683|240|628|14|#822069|1
+Hala|-734|149|-299|16|#6fbfe8|8
+Cron|-373|-145|-116|8|#4f2688|5
+Centauri IV|-156|-464|626|18|#826de3|0
+Kosmos|-640|-219|-789|12|#e8162f|12
+Battleworld|54|617|686|10|#4574dc|12
+Ego the Living Planet|-652|623|364|12|#804cad|5
+Ryas|676|-202|-708|20|#c7c3fe|9
+#####
+Centauri IV|Wobb-Lar|Gold
+Broi|O'erlanii|Terbium
+Kakaranathara|Berhart|Fluorine
+Annoval 14|Broi|Lithium
+Cyber|Cron|Seaborgium
+Stonus I-V|Kosmos|Tungsten
+Ceres|Wobb-Lar|Astatine
+Stonus I-V|Superior|Nobelium
+Ceres|Annoval 14|Protactinium
+Quon|Mobius|Curium
+O'erlanii|Ria|Titanium
+Lumin|Birkeel|Rutherfordium
+O'erlanii|Strontia|Sodium
+Taa|Ceres|Lead
+Saturn|Birkeel|Berkelium
+Calculex|Lar|Copernicium
+Hiberlac|Kosmos|Plutonium
+Battleworld|Lumin|Carbonadium
+Tarnax IV|Ryas|Cadmium
+Wobb-Lar|Calculex|Adamantium
+Battleworld|Berhart|Tantalum
+Battleworld|O'erlanii|Boron
+Xandar|Hiberlac|Polonium
+Ego the Living Planet|Hala|Radium

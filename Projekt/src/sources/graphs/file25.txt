@@ -1,0 +1,56 @@
+Wilamean|-287|-225|55|12|#979272|14
+Annoval 14|-601|-668|-472|5|#6569e7|6
+Elanis|-569|100|280|5|#a331cf|9
+Clarius|583|692|780|10|#f8a49c|9
+Alpha Centauri|-360|269|-103|7|#487651|3
+Moord|691|314|104|6|#26a25c|4
+Broi|630|-148|471|17|#32ede8|3
+O'erlanii|642|-415|34|15|#5ca483|4
+Kakaranathara|318|443|-530|12|#06367a|13
+Cyber|425|779|-123|7|#fa6232|9
+Biphasia|570|-370|518|9|#9533a2|12
+Strontia|730|153|146|8|#b62fc8|14
+Astra|-734|28|-387|19|#7a9d13|3
+Hala|500|386|119|5|#596f4a|0
+Quon|564|-461|-558|20|#57bbeb|10
+Carmondy IV|-592|650|610|14|#e20f5e|8
+Tarnax IV|351|38|50|17|#23a52a|14
+Beta|332|-350|779|13|#8a0db6|2
+Skrullos|533|199|-275|20|#84701b|3
+Battleworld|-461|-458|-446|12|#59f5bb|2
+Maklu IV|294|-485|375|16|#c8d491|6
+Jhb|26|-721|125|8|#080108|8
+Hiberlac|-721|192|-286|10|#0bcaf5|2
+R'makl'z|631|267|352|10|#3b6900|0
+Maarin|508|437|-708|5|#922bed|1
+#####
+Carmondy IV|Alpha Centauri|Nitrogen
+Wilamean|Broi|Actinium
+Battleworld|Quon|Tungsten
+Kakaranathara|Broi|Nobelium
+Strontia|Biphasia|Silicon
+Hala|Quon|Fluorine
+Maklu IV|Jhb|Carbon
+Kakaranathara|Elanis|Argon
+Annoval 14|Hiberlac|Phosphorus
+Moord|Kakaranathara|Cesium
+Alpha Centauri|Wilamean|Ruthenium
+Broi|Carmondy IV|Calcium
+Jhb|Elanis|Plandanium
+Skrullos|Astra|Rutherfordium
+Broi|Biphasia|Livermorium
+Cyber|O'erlanii|Lithium
+Jhb|Maklu IV|Rhodium
+Moord|Battleworld|Einsteinium
+Battleworld|R'makl'z|Helium
+R'makl'z|Quon|Dubnium
+Maklu IV|Beta|Bismuth
+Strontia|Astra|Lead
+Battleworld|Jhb|Magnesium
+Hala|R'makl'z|Curium
+Alpha Centauri|Cyber|Thulium
+Moord|Clarius|Carbonadium
+Hala|Moord|Yttrium
+Moord|Kakaranathara|Americium
+Skrullos|Maarin|Bromine
+Maklu IV|Alpha Centauri|Krypton

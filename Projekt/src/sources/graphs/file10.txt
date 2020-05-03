@@ -1,0 +1,21 @@
+Ankara|344|638|-586|10|#497733|3
+Dyofor|437|-661|18|8|#aeef41|14
+Darbia|143|-433|-12|5|#21a8c2|4
+Xandar|591|40|9|17|#800459|2
+Sirius III-IV|622|-405|-570|13|#89c7a6|5
+Cyber|-227|444|268|10|#227bfe|12
+Jhb|520|-75|-565|7|#b4747d|9
+The World|-155|349|60|16|#d60c9d|12
+Superior|419|216|15|10|#3400a5|11
+Lemista|-245|-43|-634|9|#a2522e|14
+#####
+Xandar|Dyofor|Holmium
+Sirius III-IV|Dyofor|Argon
+Lemista|Superior|Uranium
+The World|Lemista|Cogmium
+Superior|The World|Beryllium
+Cyber|Lemista|Iron
+Ankara|Superior|Tin
+Cyber|Superior|Sulfur
+Darbia|Jhb|Cesium
+Dyofor|Jhb|Potassium

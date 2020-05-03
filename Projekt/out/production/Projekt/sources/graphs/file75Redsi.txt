@@ -1,0 +1,113 @@
+R'makl'z|129|280|-580|5|#4f0e42|7
+Hiberlac|430|587|673|17|#0445ec|13
+Breakworld|748|-121|-462|6|#511dea|6
+Ariston|546|164|-47|16|#86bf08|4
+Alpha Centauri|140|-484|-560|8|#fc3bfe|5
+Asylum|138|-242|580|16|#35e7df|10
+Femizonia|-567|134|182|9|#394120|0
+Earth|602|-574|753|17|#c088e8|12
+Ba-Banis|-377|-105|-172|8|#401a1b|1
+Skrullos|305|545|739|17|#348e8f|9
+Xandar|706|39|-525|14|#a91396|2
+Kakaranathara|-7|704|-387|13|#3a427c|2
+Cyber|405|36|-651|8|#9e2a81|2
+Aedi|793|-365|-279|19|#7955a1|6
+Tayp|-649|215|-256|20|#15a193|3
+Elanis|642|135|501|18|#70a513|11
+Battleworld|289|-93|-559|8|#da90d6|12
+Beta|-708|453|-389|15|#509caa|10
+Wilamean|-682|-135|-53|15|#6c9893|1
+Astra|521|765|488|17|#0a69d7|8
+Titan|334|22|586|11|#c3bb06|12
+Wundagore II|-28|286|143|20|#a34423|7
+Ceres|-25|-237|-188|7|#fc97e5|5
+Halfworld|-7|286|-459|18|#7ce77c|7
+Marvan|687|256|-699|14|#8de25a|0
+Quon|-27|452|-510|16|#e18c03|7
+Moord|-100|761|-72|6|#d574ab|9
+Sszardil|210|-445|-532|19|#9a3035|13
+Taur|-575|-148|-383|7|#990802|4
+Lar|101|-420|439|14|#6cd7d1|9
+Huj|-777|-517|-689|9|#9df15f|8
+Cron|604|-310|533|15|#404122|3
+Arcturus IV|788|-336|192|12|#1b4ed7|5
+Contraxia|385|23|-567|11|#428f34|7
+Gunava|-363|-389|743|14|#ec3976|2
+Sakaar|-542|-668|785|17|#57a2df|8
+Lumin|-273|267|258|6|#b53bd9|12
+Tekton|-150|-365|-200|10|#1a5ae5|10
+Ego the Living Planet|-286|-482|-513|12|#aa25a5|6
+Zenn-La|-635|-462|616|5|#900594|3
+Interdis|-799|-276|157|20|#5465b8|0
+Arima|-547|382|-753|19|#672518|14
+Tsorcherhi|-113|-754|265|10|#c6cefb|10
+Jötunheim|-729|-465|-652|18|#6d72df|9
+Sirius III-IV|-594|-797|69|20|#a57efd|6
+Broi|763|-683|-769|20|#54c29c|6
+Arago-7|-429|-472|458|18|#00764c|13
+Darbia|-656|-583|787|15|#7bfbfc|11
+Calurnia|696|-178|-731|19|#121871|10
+Annoval 14|-624|561|282|7|#78dde5|0
+Achernon|-183|603|-454|12|#0f2474|4
+Jupiter|761|284|-500|17|#74798f|2
+Mercury|-766|-592|-501|18|#498eb5|11
+Timor|634|-432|-143|11|#9be856|2
+Mobius|667|230|-495|14|#6b9ef9|9
+Dakkam|285|-479|85|6|#0ee389|3
+O'erlanii|750|-692|-736|8|#971f78|3
+Pluto|-392|-217|-463|14|#bb9d28|12
+Biphasia|-537|-782|299|13|#45e8cd|11
+Asgard|-302|480|-419|20|#3a9c28|1
+Vega|-612|-511|88|18|#1908bc|10
+Ria|240|-31|-62|17|#d4e2fa|0
+Blackworld|662|25|-326|20|#d4549b|6
+Strontia|-325|-407|41|8|#daa0bc|12
+Lemista|147|-133|-5|20|#ed6de0|2
+Laxidazia|413|355|-327|18|#cd718d|14
+Vrellnex|-792|-120|133|6|#a6e31f|8
+Uranus|674|-732|24|19|#f887b1|13
+Dyofor|-589|395|-37|13|#962470|10
+Stonus I-V|80|233|-653|5|#5ca697|5
+Tun|247|-711|154|17|#67854f|5
+Archeopia|88|56|555|8|#7f6af1|7
+Galador|733|195|743|19|#7dff11|14
+Aerie|396|-477|-140|10|#71c27a|14
+Hala|172|665|-170|19|#cccec9|3
+#####
+Lemista|Laxidazia|Rubidium
+Sirius III-IV|Blackworld|Roentgenium
+Archeopia|Contraxia|Thorium
+Arago-7|Dyofor|Plandanium
+Lar|Jupiter|Beryllium
+Skrullos|Strontia|Berkelium
+Kakaranathara|Blackworld|Europium
+Tun|Jupiter|Palladium
+Astra|Biphasia|Hafnium
+Galador|Battleworld|Chlorine
+Quon|Galador|Calcium
+Aerie|Galador|Nobelium
+Xandar|Jötunheim|Calcium
+Tsorcherhi|Taur|Radium
+Laxidazia|Mobius|Tellurium
+Calurnia|Aerie|Francium
+Asgard|Pluto|Cobalt
+Lumin|Annoval 14|Helium
+Alpha Centauri|Tayp|Argon
+Huj|Annoval 14|Tennessine
+Arago-7|Ria|Mercury
+Dyofor|Mercury|Cobalt
+Astra|Annoval 14|Thallium
+Dyofor|Cron|Nihonium
+Quon|Laxidazia|Phosphorus
+Uranus|Skrullos|Scandium
+Interdis|Tun|Xenon
+Interdis|Femizonia|Moscovium
+Achernon|Sakaar|Lanthanum
+Titan|Dakkam|Molybdenum
+Zenn-La|Broi|Astatine
+Mobius|Zenn-La|Ytterbium
+Battleworld|Tekton|Hassium
+Arcturus IV|Tun|Lead
+Halfworld|Zenn-La|Gold
+Interdis|Quon|Einsteinium
+O'erlanii|Strontia|Krypton

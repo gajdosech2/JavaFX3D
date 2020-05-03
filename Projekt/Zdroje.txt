@@ -1,0 +1,17 @@
+SpaceGraph3D.java
+- private ImageView prepareBackground()
+    https://www.pexels.com/photo/astronomy-dark-evening-glowing-176851/ (free to use)
+- private Cylinder prepareLine(Graph.Planet planet1, Graph.Planet planet2)
+    https://netzwerg.ch/blog/2015/03/22/javafx-3d-line/ (zo zadania v LISTe)
+- private void initMouseControl(Group group, Scene scene)
+    https://github.com/Programovanie4/Java2019/tree/master/12_javafx_3D/src (Lukáš Gajdošech)
+
+Utils.java
+- textury planet z https://www.solarsystemscope.com/textures/
+
+JavaFx3D help
+- https://www.genuinecoder.com
+
+Logo by ©2019 FreeLogoDesign | 400 Boulevard Langelier, Quebec, G1K 5N9 (free download)
+- https://www.freelogodesign.org
+

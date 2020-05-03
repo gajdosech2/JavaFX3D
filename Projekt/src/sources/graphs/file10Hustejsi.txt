@@ -1,0 +1,31 @@
+Beta|-34|132|474|11|#a902f7|6
+Tayp|329|611|159|18|#e53b8b|1
+Jötunheim|-122|-34|72|14|#f6238a|11
+Arago-7|-347|-56|-214|12|#e1637a|14
+Ryas|450|443|558|19|#24b501|11
+Gunava|524|-717|790|18|#2a4a5a|11
+Stent|745|-603|131|11|#f381ca|12
+Annoval 14|482|-209|-549|7|#698e86|5
+Inaku|77|321|271|5|#9171d8|7
+Arima|790|-470|-483|6|#f77eac|2
+#####
+Inaku|Annoval 14|Neptunium
+Jötunheim|Arima|Boron
+Gunava|Tayp|Francium
+Gunava|Jötunheim|Dargonite
+Inaku|Gunava|Silver
+Gunava|Stent|Neon
+Stent|Ryas|Actinium
+Tayp|Beta|Thorium
+Arima|Jötunheim|Vibranium
+Annoval 14|Jötunheim|Adamantium
+Stent|Tayp|Polonium
+Inaku|Jötunheim|Lithium
+Ryas|Stent|Epidurium
+Stent|Inaku|Scandium
+Inaku|Jötunheim|Molybdenum
+Ryas|Gunava|Francium
+Tayp|Gunava|Rhodium
+Tayp|Ryas|Antimony
+Gunava|Arima|Chlorine
+Annoval 14|Inaku|Zirconium
